@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(44, 42, 42);
+}
+ .head{
+    color:rgb(141, 22, 22);
+}
+.post{
+    background-color:rgb(251, 208, 156);
+    color:rgb(164, 65, 22);
+}
+.post h3{
+    font-style:italic;
+    font-weight:600;
+    color:black;
+}
+.post .detail{
+    color:Black;
+    background:linear-gradient(45deg, rgb(5, 89, 89), rgb(19, 166, 166) );
+}
+.post .detail a{
+    text-decoration: none;
+    color:black;
+}
+.post .Update{
+    color:Black;
+    background:linear-gradient(45deg, rgb(5, 89, 89), rgb(19, 166, 166) );
+}
+.post .Update a{
+    text-decoration: none;
+    color:black;
+}
+ .add{
+    border:0;
+    outline:0;
+    color:Black;
+    background:linear-gradient(45deg, rgb(5, 89, 89), rgb(19, 166, 166) );
+}
+.add a{
+    text-decoration: none;
+}
+.post .delete{
+    color:Black;
+    background:linear-gradient(45deg, rgb(5, 89, 89), rgb(19, 166, 166) );
+}
